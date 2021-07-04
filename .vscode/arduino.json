@@ -1,0 +1,6 @@
+{
+    "sketch": "CombinationSwitch.ino",
+    "board": "arduino:avr:leonardoeth",
+    "port": "COM13",
+    "output": ".\\build"
+}

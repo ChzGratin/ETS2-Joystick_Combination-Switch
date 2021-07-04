@@ -1,0 +1,32 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\leonardo"
+  },
+  {
+    "Sourcefile": "c:\\Users\\JounghyeonPark\\Documents\\JounghyeonPark\\DEV\\GitHub\\Arduino\\ETS2 Joystick_Combination Switch\\build\\sketch\\CombinationSwitch.ino.cpp",
+    "Include": "Joystick.h",
+    "Includepath": "C:\\Users\\JounghyeonPark\\Documents\\Arduino\\libraries\\ArduinoJoystickLibrary-master\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\JounghyeonPark\\Documents\\JounghyeonPark\\DEV\\GitHub\\Arduino\\ETS2 Joystick_Combination Switch\\build\\sketch\\CombinationSwitch.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\JounghyeonPark\\Documents\\Arduino\\libraries\\ArduinoJoystickLibrary-master\\src\\DynamicHID\\DynamicHID.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\JounghyeonPark\\Documents\\Arduino\\libraries\\ArduinoJoystickLibrary-master\\src\\Joystick.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
