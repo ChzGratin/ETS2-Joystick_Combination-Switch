@@ -6,7 +6,9 @@ README.md
 ## About
 Joystick made of REAL combination switch (lights, wipers)   
 Only for ETS2 (Euro Truck Simulator 2)   
-Supported Boards: Arduino (Leonardo, Micro)
+Supported Boards: Arduino (Leonardo, Micro)   
+   
+I used Arduino Joystick Library by MHeironimus. (https://github.com/MHeironimus/ArduinoJoystickLibrary)
 
 ***
 
