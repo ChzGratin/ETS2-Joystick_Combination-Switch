@@ -21,8 +21,9 @@ An arduino with a real combination switch will work as an almost perfect joystic
 * Front Wiper (MIST, LOW, HIGH, Wash)
 * Rear Wiper (ON, Wash)
    
-**Youtube** (Click the image below to watch the video.)   
-[![Video Label](https://img.youtube.com/vi/b8W2tlckGFg/0.jpg)](https://youtu.be/b8W2tlckGFg)
+**Demonstration Video**
+
+[demo vid](https://user-images.githubusercontent.com/70784055/135658332-4d2de169-8913-4880-8d0b-93ab14ea40c6.mp4)
 
 ***
 
